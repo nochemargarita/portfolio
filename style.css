@@ -1,0 +1,45 @@
+/*General*/
+body {
+    background: #CCBCBC;
+}
+.section {
+    padding: 30px 0 50px 0px;
+}
+.section .heading {
+    text-align: center;
+    padding-bottom: 30px;
+}
+.page-break {
+    width: 200px;
+    height: 1px;
+    background: #063940;
+    margin: 0 auto;
+}
+/*Navbar Section */
+.custom-nav {
+    background: #854798;
+}
+.nav-link {
+    color: #E4D1FF;
+}
+.profile-pic { 
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+}
+
+.profile-pic img{
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 22px;
+}
+
+/*About*/
+.carousel-inner img {
+  margin: auto;
+}
+
+.language-img {
+    height: 170px;
+    width: 170px;
+}
