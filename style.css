@@ -1,14 +1,15 @@
 /*General*/
+
 body {
     background: #CCBCBC;
 }
-.section {
-    padding: 30px 0 50px 0px;
+
+section {
+  height: 100vh;
+  margin-top: 10%;
 }
-.section .heading {
-    text-align: center;
-    padding-bottom: 30px;
-}
+
+
 .page-break {
     width: 200px;
     height: 1px;
@@ -16,6 +17,10 @@ body {
     margin: 0 auto;
 }
 /*Navbar Section */
+.navbar-toggler-icon {
+    color: white;
+    background: white;
+}
 .custom-nav {
     background: #854798;
 }
@@ -43,3 +48,21 @@ body {
     height: 170px;
     width: 170px;
 }
+
+/*Portfolio*/
+
+/*Contact*/
+.contact-li {
+    display: inline-block;
+}
+
+.fa-envelope {
+    padding-left: 20px;
+}
+.fa-phone {
+    padding-left: 20px;
+    position: relative;
+    top: 2px;
+}
+
+
